@@ -2,7 +2,7 @@
 
 #####  <p align="center"> [Zhihao Liang](https://lzhnb.github.io/), [Qi Zhang](https://qzhang-cv.github.io/), [Wenbo Hu](https://wbhu.github.io/), [Lei Zhu](https://rayleizhu.github.io/), [Ying Feng](https://scholar.google.com.hk/citations?user=PhkrqioAAAAJ&hl=zh-CN), [Kui Jia](http://kuijia.site/)</p>
 
-#### <p align="center">[Project Page](https://lzhnb.github.io/project-pages/analytic-splatting) | [ArXiv](https://arxiv.org/abs/2403.11056) | [Paper](https://arxiv.org/pdf/2403.11056.pdf)</p>
+#### <p align="center">[Project Page](https://lzhnb.github.io/project-pages/analytic-splatting) | [ArXiv](https://arxiv.org/abs/2403.11056) | [Paper](https://arxiv.org/pdf/2403.11056.pdf) | [Online Viewer](https://lzhnb.github.io/project-pages/analytic-splatting-demo/)</p>
 
 <p align="center">
   <img width="80%" src="assets/teaser.png"/>
@@ -18,3 +18,4 @@ We present Analytic-Splatting that improve the pixel shading in 3DGS to achieve 
 <br>
 
 <p align="center"> All Code will be released soon... 🏗️ 🚧 🔨</p>
+<p align="center"> Welcome to the Online Viewer to view the results of Analytic-Splatting.</p>
