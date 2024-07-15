@@ -72,8 +72,8 @@ python train.py \
 --load_allres \
 --sample_more_highres
 ```
-> set `--filter3d` to enable 3D filtering proposed in Mip-Splatting
-> set `--dense` to enable densification proposed in GOF
+> Set `--filter3d` to enable 3D filtering proposed in Mip-Splatting;
+> Set `--dense` to enable densification proposed in GOF.
 
 ```sh
 python render.py -m outputs/chair-ms/ --skip_train --lpips
@@ -88,13 +88,13 @@ python train.py \
 --white_background \
 --eval
 ```
-> set `--filter3d` to enable 3D filtering proposed in Mip-Splatting
-> set `--dense` to enable densification proposed in GOF
+> Set `--filter3d` to enable 3D filtering proposed in Mip-Splatting;
+> Set `--dense` to enable densification proposed in GOF.
 
 ```sh
 python render.py -m outputs/chair/ --skip_train --lpips
 ```
-> set `--vis` to save testing results.
+> Set `--vis` to save testing results.
 
 ### Mip-NeRF 360
 Take the `bicycle` case as an example.
