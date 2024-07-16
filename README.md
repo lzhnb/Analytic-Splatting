@@ -55,8 +55,7 @@ You can find our SfM data sets for Tanks&Temples and Deep Blending [here](https:
 
 
 ## Running
-We evaluate our method on [TensoIR-Synthetic](https://zenodo.org/records/7880113#.ZE68FHZBz18) and [Mip-NeRF 360](https://jonbarron.info/mipnerf360/) datasets. And please visit [here](https://drive.google.com/file/d/10WLc4zk2idf4xGb6nPL43OXTTHvAXSR3/view?usp=share_link) for the environment maps.
-Please refer to the [TensoIR](https://github.com/Haian-Jin/TensoIR?tab=readme-ov-file) for more details about **TensoIR-Synthetic** and **Environment map**.
+We evaluate our method on [NeRF-Synthetic](https://drive.google.com/drive/folders/128yBriW1IG_3NJ5Rp7APSTZsJqdJdfc1) and [Mip-NeRF 360](https://jonbarron.info/mipnerf360/) datasets.
 
 **Please note that we use `-i images_4/images_2` instead of `-r 4/2` for single-scale training on Mip-NeRF 360 dataset, which will lead to artificially high metrics!!!**
 
