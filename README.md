@@ -1,4 +1,4 @@
-# <p align="center"> Analytic-Splatting: Anti-Aliased 3D Gaussian Splatting via Analytic Integration (ECCV 2024) </p>
+# <p align="center"> Analytic-Splatting: Anti-Aliased 3D Gaussian Splatting via Analytic Integration (ECCV 2024 - Oral) </p>
 
 #####  <p align="center"> [Zhihao Liang](https://lzhnb.github.io/), [Qi Zhang](https://qzhang-cv.github.io/), [Wenbo Hu](https://wbhu.github.io/), [Lei Zhu](https://rayleizhu.github.io/), [Ying Feng](https://scholar.google.com.hk/citations?user=PhkrqioAAAAJ&hl=zh-CN), [Kui Jia](http://kuijia.site/)</p>
 
